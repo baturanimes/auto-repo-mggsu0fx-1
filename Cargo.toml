@@ -1,0 +1,6 @@
+[package]
+name = "auto-repo-mggsu0fx-1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
